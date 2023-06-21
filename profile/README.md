@@ -5,4 +5,4 @@
 - Get your daily tasks done with todos
 - Jot down your thoughts with Notes
 - Organise your day with Calendar
-- API for third party apps
+- [API](https://truedoapi-1-u8581356.deta.app/docs) for third party apps
